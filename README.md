@@ -1,4 +1,3 @@
-````markdown
 # emmi DIGITAL STOP WATCH
 
 A digital stopwatch built using Assembly language in emu8086.  
