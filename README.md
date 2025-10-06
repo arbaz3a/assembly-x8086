@@ -27,7 +27,6 @@ Text-based interface using BIOS interrupts
    ```bash
    git clone https://github.com/arbaz3a/assembly-x8086.git
    cd assembly-x8086
-````
 
 2. Open the file `stop_watch_assembly.asm` in emu8086
 3. Assemble and run the program
